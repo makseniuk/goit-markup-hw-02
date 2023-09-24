@@ -1,6 +1,7 @@
 body {
-    font-family: 'Roboto', 'Montserrat' sans-serif;
+    font-family: "Roboto",sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
 }
 
 ul,
@@ -14,58 +15,6 @@ a {
 
 /* header */
 
-.header {}
-
-.top-header {}
-
-.header-nav {}
-
-.header-logo {
-    color: #4D5AE5;
-        font-family: Raleway;
-        font-size: 18px;
-        font-weight: 700;
-        line-height: 1.16;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-}
-
-.header-logo-color {
-    color: #2e2f42
-}
-
-
-.header-list {}
-
-.header-items {
-    color: #2E2F42;
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-}
-
-.header-items-links:hover,
-:focus {
-color: #4D5AE5;
-}
-
-.header-adress {}
-
-.adress-list {}
-
-.adress-list-items {
-    color: #434455;
-        font-size: 16px;
-        font-weight: 400;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-}
-
-.adress-list-links:hover,
-:focus {
-     color: #4D5AE5;
-}
 
 /* solotion */
 
@@ -81,24 +30,27 @@ color: #4D5AE5;
         font-size: 56px;
         font-weight: 700;
         line-height: 1.07;
-        letter-spacing: 00.2em;
+        letter-spacing: 0.02em;
+        text-align: center;
 }
 
 .solution-btn {
+    font-family: "Roboto", sans-serif;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     background-color: #4D5AE5;
+    cursor: pointer;
 }
 
-.solution-btn:hover,
-:focus {
-    color: #404BBF;
+.solution-btn:hover {
+    background-color: #404BBF;
 }
 
-.btn-text {
-    color: #FFFFFF;
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
+.solution-btn:focus {
+background-color: #404BBF;
 }
 
 /* quality */
