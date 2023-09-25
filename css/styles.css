@@ -85,7 +85,9 @@ background-color: #404BBF;
 
 /* team */
 
-.team {}
+.team {
+    background-color: #F4F4FD;
+}
 
 .team-title {
     color: #2E2F42;
@@ -98,10 +100,12 @@ background-color: #404BBF;
 }
 
 .list-team {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
-.team-items {}
+.team-items {
+    background-color: #FFFFFF;
+}
 
 .team-items-img {}
 
