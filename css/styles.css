@@ -15,10 +15,6 @@ a {
 
 /* header */
 
-.header {}
-
-.header-nav {}
-
 .header-link {
     color: #4D5AE5;
     font-family: Raleway;
@@ -39,9 +35,6 @@ a {
         text-transform: uppercase;
 }
 
-.header-list {}
-
-.header-list-items {}
 
 .header-items-link {
     color: #2E2F42;
@@ -51,9 +44,6 @@ a {
         letter-spacing: 0.02em;
 }
 
-.adress {}
-
-.adress-list {}
 
 .adress-items-link {
     color: #434455;
@@ -175,12 +165,6 @@ background-color: #404BBF;
         text-transform: capitalize;
 }
 
-.portfolio-list {}
-
-.portfolio-items {}
-
-.portfolio-items-img {}
-
 .portflio-items-title {
     color: #2E2F42;
         font-size: 20px;
@@ -205,7 +189,7 @@ background-color: #404BBF;
 
 .footer-logo {
 color: #4D5AE5;
-    font-family: Raleway, sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
