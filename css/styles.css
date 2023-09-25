@@ -175,15 +175,21 @@ background-color: #404BBF;
         text-transform: capitalize;
 }
 
-.portfolio-items-title {
+.portfolio-list {}
+
+.portfolio-items {}
+
+.portfolio-items-img {}
+
+.portflio-items-title {
     color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
-        line-height: 1.20;
+        line-height: 1.2;
         letter-spacing: 0.02em;
 }
 
-.portfolio-items-texte {
+.portfolio-items-text {
     color: #434455;
         font-size: 16px;
         font-weight: 400;
