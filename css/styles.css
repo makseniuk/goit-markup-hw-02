@@ -15,6 +15,55 @@ a {
 
 /* header */
 
+.header {}
+
+.header-nav {}
+
+.header-link {
+    color: #4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.headercolor {
+    color: #2E2F42;
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+}
+
+.header-list {}
+
+.header-list-items {}
+
+.header-items-link {
+    color: #2E2F42;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
+.adress {}
+
+.adress-list {}
+
+.adress-items-link {
+    color: #434455;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
+.adress-list-items {}
 
 /* solotion */
 
@@ -54,18 +103,6 @@ background-color: #404BBF;
 }
 
 /* quality */
-
-.quality {
-    background-color: #F4F4FD;
-}
-
-.quality-title {}
-
-.list-quality {
-    background-color: #FFFFFF;
-}
-
-.list-items {}
 
 .list-title {
     color :#2E2F42;
@@ -107,7 +144,6 @@ background-color: #404BBF;
     background-color: #FFFFFF;
 }
 
-.team-items-img {}
 
 .team-items-title {
     color: #2E2F42;
@@ -129,8 +165,6 @@ background-color: #404BBF;
 
 /* portfolio */
 
-.portfolio {}
-
 .portfolio-title {
     color: #2E2F42;
         text-align: center;
@@ -140,12 +174,6 @@ background-color: #404BBF;
         letter-spacing: 0.02em;
         text-transform: capitalize;
 }
-
-.portfolio-list {}
-
-.portfolio-list-items {}
-
-.portfolio-items-img {}
 
 .portfolio-items-title {
     color: #2E2F42;
@@ -188,6 +216,6 @@ color: #4D5AE5;
     font-family: "Raleway", sans-serif;
         font-size: 16px;
         font-weight: 400;
-        line-height: 1.17;
+        line-height: 1.15;
         letter-spacing: 0.02em;
 }
