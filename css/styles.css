@@ -34,6 +34,15 @@ a {
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
+
+.headercolor:hover{
+color: #404bbf;
+}
+
+.headercolor:focus{
+    color: #404bbf;
+}
+
 .header-link:hover {
     color: #404bbf;
 }
