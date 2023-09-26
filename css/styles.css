@@ -35,20 +35,19 @@ a {
         text-transform: uppercase;
 }
 
-.header-items-link:hover {
-    color: #404bbf;
-}
-.header-items-link:focus {
-    color: #404bbf;
-}
-
-
 .header-items-link {
     color: #2E2F42;
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.02em;
+}
+
+.header-items-link:hover {
+    color: #404bbf;
+}
+.header-items-link:focus {
+    color: #404bbf;
 }
 
 .adress {
